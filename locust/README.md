@@ -16,3 +16,10 @@ asdf list python
 asdf local python latest
 python -V # -> Python 3.11.5
 ```
+
+## locustのインストール
+
+```
+pip install locust
+locust -V
+```
