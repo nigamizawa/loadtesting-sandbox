@@ -23,3 +23,6 @@ python -V # -> Python 3.11.5
 pip install locust
 locust -V
 ```
+
+## サンプル集
+<https://github.com/locustio/locust/tree/master/examples>
